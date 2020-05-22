@@ -19,11 +19,9 @@ All the other parameter setting can be found in the beginning of the file.
 
 % Input:  
 %        N : a histogram of your samples. Should be a 1-dim column vector.  
-%        k : the parameter such that the minimum non zero probability of
-%        a alphabet for underlying distribution is lower bounded by 1/k.  
+%        k : the parameter such that the minimum non zero probability of a alphabet for underlying distribution is lower bounded by 1/k.  
 %        By default set it to be n = sum(N).  
-%        c0 : the parameter to determine the degree of the polynomial. By
-%        default set it to be 0.558.  
+%        c0 : the parameter to determine the degree of the polynomial. By default set it to be 0.558.  
 %        nC : number of grid points.  
 %        option is an parameter to decide which loss function would you
 %        like to optimize.  
