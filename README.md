@@ -4,7 +4,7 @@ Support estimation via regularized weighted Chebyshev approximation.
 Link to our work:https://www.ideals.illinois.edu/bitstream/handle/2142/106187/CHIEN-THESIS-2019.pdf?sequence=1
 
 If you find our software useful in your work, please also cite our paper:
-@article{chien2019regularized,
+@article{chien2019regularized, \\
   title={Regularized Weighted Chebyshev Approximations for Support Estimation},
   author={Chien, I and Milenkovic, Olgica},
   journal={arXiv preprint arXiv:1901.07506},
