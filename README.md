@@ -30,7 +30,6 @@ All the other parameter setting can be found in the beginning of the file.
 %        option = 1 for RWC-S estimator.  
 %        option2 = 0 for heuristic interval [n/k,pi/2*L+n/k]  
 %        option2 = 1 for provable interval [n/k,6.5L]  
-%
 % Output:    
 %        result is the estimated support.   
   
